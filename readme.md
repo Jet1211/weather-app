@@ -1,1 +1,1 @@
-## Hello, Git!
+## This is a real-time weather app that allows  search for weather forecast based on city that is picked
